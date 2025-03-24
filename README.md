@@ -27,6 +27,29 @@ Margins, paddings, and borders.
  - Improve readability and aesthetics.
 
 Happy Coding! 💻✨
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Page</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking External CSS -->
+</head>
+<body>
+
+    <h1 class="title">Welcome to My Styled Page</h1>
+
+    <p id="description">This page is styled using external CSS with different selectors.</p>
+
+    <img src="image.jpg" alt="Sample Image" class="styled-image">
+
+    <div class="box">
+        <p>This is a styled box with padding, margin, and a border.</p>
+    </div>
+
+</body>
+</html>
+
 
 /* Applying styles using different selectors */
 
