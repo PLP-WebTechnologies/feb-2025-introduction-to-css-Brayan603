@@ -1,4 +1,7 @@
 # Introduction to CSS
+SS is a style sheet language used to describe the presentation and layout of HTML elements. It helps you control the look and feel of your website—colors, fonts, spacing, and layout—separately from the content.
+
+
 
 ## Objectives
 Link an external CSS file to an HTML document.
